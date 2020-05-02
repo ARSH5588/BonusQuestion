@@ -1,4 +1,6 @@
 # BonusQuestion
-author: Arshjit Sansoe
+Description: Its the bonus question from the final exam.
 
-repository: https://github.com/ARSH5588/BonusQuestion
+Author: Arshjit Sansoe
+
+Repository: https://github.com/ARSH5588/BonusQuestion
